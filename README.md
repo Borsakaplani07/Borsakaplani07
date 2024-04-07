@@ -20,9 +20,9 @@
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Furtsy&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furtsy&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=Furtsy&theme=nord" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Borsakaplani07&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borsakaplani07&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=Borsakaplani07&theme=nord" width="%100" height="150px" alt="stats" />
 </details>
 
 <details align="center">
