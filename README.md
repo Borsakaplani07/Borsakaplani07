@@ -15,7 +15,7 @@
    <a href="https://steamcommunity.com/id/Borsakaplani/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
  <a href="https://www.reddit.com/user/" target"blank_"><img src="https://img.shields.io/badge/reddit%20-FF5700.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://open.spotify.com/user/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://discord.com/invite/" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
+<a href="https://discord.com/invite/" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=KAPLAN DC&logo=node.js&logoColor=white"></a>
 </p>
 
 <details align="center">
